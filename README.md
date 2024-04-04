@@ -1,6 +1,6 @@
 # Your Name
 
-[![GitHub Badge](https://img.shields.io/github/followers/your-username?style=social)](https://github.com/your-username)
+[![GitHub Badge](https://img.shields.io/github/followers/devdilyorbek?style=social)](https://github.com/devdilyorbek)
 [![Twitter Badge](https://img.shields.io/twitter/follow/your-twitter-handle?style=social)](https://twitter.com/your-twitter-handle)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/your-linkedin-profile)
 
