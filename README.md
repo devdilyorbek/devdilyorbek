@@ -1,9 +1,9 @@
 <!--Banner-->
-![Kiran1689 Banner Image](./banner.png)
+![Kiran1689 Banner Image](https://raw.githubusercontent.com/dilyorbek777/portfolio-4.7/main/src/assets/img/banner-bg.png)
 
 <!--Night Owl image-->
 <div>
-  <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
+  <img align="right" width="40%" src="https://raw.githubusercontent.com/dilyorbek777/portfolio-4.7/36f9ebaad655ac4227841b516fd7e5fa56ea3a9a/src/assets/img/header-img.svg">
 </div>
 
 <!--Header Name-->
