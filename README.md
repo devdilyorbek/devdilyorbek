@@ -30,7 +30,7 @@
 <!--Languages and Tools Section-->       
 <h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
 <p align="center">
-<img width="500px"  src="https://skillicons.dev/icons?i=py,js,next,tailwind,html,css,react,django,git,vscode,postman&perline=10"  />
+<img width="500px"  src="https://skillicons.dev/icons?i=py,js,next,tailwind,html,css,react,django,git,vscode,postman&perline=11"  />
 </p>
 <br />
 
